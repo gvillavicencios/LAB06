@@ -18,8 +18,8 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-Creacion y manejo de PODS en iOS, Curso MOV02
-
+    Manejo de pods en ios Clase MOV02.
+                       DESC
 
   s.homepage         = 'https://github.com/gvillavicencios@outlook.com/LAB06'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -28,7 +28,7 @@ Creacion y manejo de PODS en iOS, Curso MOV02
   s.source           = { :git => 'https://github.com/gvillavicencios@outlook.com/LAB06.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '13.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'LAB06/Classes/**/*'
   
