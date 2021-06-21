@@ -1,0 +1,6 @@
+framework module LAB06 {
+  umbrella header "LAB06-umbrella.h"
+
+  export *
+  module * { export * }
+}

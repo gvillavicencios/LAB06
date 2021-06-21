@@ -1,0 +1,22 @@
+{
+  "name": "LAB06",
+  "version": "0.1.0",
+  "summary": "A short description of LAB06.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gvillavicencios@outlook.com/LAB06",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gvillavicencios@outlook.com": "gvillavicencios@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/gvillavicencios@outlook.com/LAB06.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LAB06/Classes/**/*"
+}
